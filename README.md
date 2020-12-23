@@ -1,6 +1,7 @@
 # gnn-table-recognition
 
 Repository containing unofficial code for a modification to the arxiv paper 1905.13391 [(link)](https://arxiv.org/pdf/1905.13391.pdf).
+
 [Link to the repository](https://github.com/shahrukhqasim/TIES-2.0/) containing offical source code for the paper.
 
 Modifications in this code as compared to original paper:
